@@ -1,2 +1,2 @@
 # Scrappy
-Scrap selling app
+Scrap selling app, that I will make
